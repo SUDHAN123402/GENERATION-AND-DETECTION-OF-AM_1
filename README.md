@@ -81,7 +81,6 @@ Note: Keep all the switch faults in off position
 
 ## MODEL GRAPH:
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/7bc77926-9c2a-42c6-994b-6c67433b11d2" />
-
 ## PROGRAM:
 ```
 	am = 8.7;
@@ -134,19 +133,13 @@ Note: Keep all the switch faults in off position
 	xlabel('Time (s)');
 	ylabel('Amplitude');
 
-```
- 
+``` 
 ## TABULATION:
 ![WhatsApp Image 2025-11-16 at 14 20 46_446f8358](https://github.com/user-attachments/assets/8bdbbf2a-91ba-4d19-99f3-bf295e3a7fe7)
-
 ## CALCULATION:
-
 ![WhatsApp Image 2025-11-16 at 14 20 46_80b1a9c5](https://github.com/user-attachments/assets/8c048336-0fa6-44de-bbe8-d8fc03b69562)
-
-
 ## OUTPUT:
 ![WhatsApp Image 2025-11-16 at 14 20 46_530f90ca](https://github.com/user-attachments/assets/49b72bab-416e-495d-9031-774a4838dae4)
-
 ## RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
 
